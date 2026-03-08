@@ -50,8 +50,8 @@ notebook
 
 # ===== Optional: Local Model Inference =====
 # Uncomment if you want to run models locally
-# torch
-# transformers
+torch
+transformers
 
 # ===== Optional: Additional Haystack Integrations =====
 # haystack-experimental  # For experimental features
